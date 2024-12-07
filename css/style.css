@@ -8561,10 +8561,22 @@ h1, h2, h3, h4, h5,
     z-index: 0;
     /* background-image: linear-gradient(to bottom right, #333399 , #274899 , #0094d9); */
     /* background: linear-gradient(to right, #1b3b8c , #1b3b8c , #0092d7); */
-    background: url("../images/ban2.jpg") center top no-repeat;
+    background: url("../images/bg2.jpeg") center top no-repeat;
     background-size: cover;
     
   }
+
+  /* .owl-carousel.home-slider ::after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    opacity: 1;
+    z-index: 1;
+    
+  } */
   
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
@@ -12062,7 +12074,7 @@ footer p a:hover{
 .banner_area {
   position: relative;
   z-index: 1;
-  background: url(../images/ban2.jpg) no-repeat scroll center center;
+  background: url(../images/bg2.jpeg) no-repeat scroll center center;
   /* background-image: linear-gradient(to bottom right, #333399 , #274899 , #0094d9); */
   background-size: cover;
   height: 350px;
@@ -12178,7 +12190,7 @@ footer p a:hover{
 .aboutbanner_area {
   position: relative;
   z-index: 1;
-  background: url(../images/ban2.jpg) no-repeat scroll center center;
+  background: url(../images/bg2.jpeg) no-repeat scroll center center;
   /* background-image: linear-gradient(to bottom right, #333399 , #274899 , #0094d9); */
   background-size: cover;
   height: 350px;
@@ -12764,7 +12776,7 @@ video {
 .contact-area {
   position: relative;
   z-index: 1;
-  background: url(../images/ban2.jpg) no-repeat scroll center center;
+  background: url(../images/bg2.jpeg) no-repeat scroll center center;
   /* background-image: linear-gradient(to bottom right, #333399 , #274899 , #0094d9); */
   background-size: cover;
   height: 350px;
@@ -13714,7 +13726,7 @@ s.straight::before, strike.straight::before{transform: rotate(0deg);left:-1%;wid
   .secimage{
     position: relative;
     z-index: 1;
-    background: url(../images/ban2.jpg) no-repeat scroll center center !important;
+    background: url(../images/bg2.jpeg) no-repeat scroll center center !important;
     /* background-image: linear-gradient(to bottom right, #333399 , #274899 , #0094d9); */
     background-size: cover !important;
     height: 750px;

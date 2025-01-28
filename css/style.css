@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
+    --primary: #03469d;
     --secondary: #34AD54;
     --light: #EEF9FF;
     --dark: #091E3E;
@@ -118,7 +118,8 @@ h6,
     height:60px;
     width: auto;
     -webkit-filter: drop-shadow(5px 5px 5px #fff );
-  filter: drop-shadow(1.5px 1.5px 1px #fff);} 
+  filter: drop-shadow(3px 1.5px 0.5px #fff)
+} 
 
 .btn-square,
 .btn-sm-square,

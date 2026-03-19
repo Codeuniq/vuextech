@@ -1,0 +1,47 @@
+.client-section {
+  padding: 70px 20px;
+  background: #f8f9fb;
+  text-align: center;
+}
+
+.client-title {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.client-card {
+  background: #fff;
+  border-radius: 18px;
+  padding: 25px;
+  text-align: left;
+  border: 1px solid #eee;
+  max-width: 350px;
+  margin: auto;
+}
+
+.client-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.client-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.client-review {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.client-rating {
+  color: #f5a623;
+}
+
+/* Swiper spacing */
+.swiper {
+  padding-bottom: 40px;
+}
